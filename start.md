@@ -22,9 +22,7 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-
+- [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"} (fagansvarlig)
 
 
 ## Administrative spørsmål
