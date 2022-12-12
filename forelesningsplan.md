@@ -28,10 +28,17 @@
 |21. februar|Forelesning 7 |Introduksjon til spillteori           |PRN kap.9.1 - 9.3|
 |            |              |Dominante strategier og Nash-likevekt             
 |28. februar  |Forelesning 8 |Kvantumskonkurranse og Cournot modell |PRN kap.9.4 - 9.5|
-|            |              |||
-|31. januar |Forelesning 5|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap.6.1 - 6.3|    
-|7. februar |Forelesning 6|Monopol og produktvalg|PRN kap.7.1 - 7.5|   
-|14. februar |Gjesteforelesning |Prisstrategi for Hurtigruten med Thomas Larsen ||   
-|16. februar |Seminar 3|Monopol, prisdiskriminering og produktvalg||   
-
+|2. mars |Seminar 4|Cournot modell||    
+|7. mars |Forelesning 9|Priskonkurranse, Bertrand modell |PRN kap.10.1 - 10.4|   
+|   |   |og lokaliseringsmodeller|
+|14. mars |Forelesning 10 |Sekvensiell konkurranse og Stackelberg modell |PRN kap.11|   
+|16. mars |Seminar 5|Oligopolmodelle||   
+|            |              |Del 4 Konkurranseskadelig strategierr|    |
+|18. april|Forelesning 11 |Prissamarbeid og karteller          |PRN kap.14.1 - 14.2|          
+|25. april  |Forelesning 12 |Etableringsbarrierer og strategiske bindinger   |PRN kap.12.1 - 12.2|
+|2. mars |Seminar 4|Cournot modell||    
+|7. mars |Forelesning 9|Priskonkurranse, Bertrand modell |PRN kap.10.1 - 10.4|   
+|   |   |og lokaliseringsmodeller|
+|14. mars |Forelesning 10 |Sekvensiell konkurranse og Stackelberg modell |PRN kap.11|   
+|16. mars |Seminar 5|Oligopolmodelle||   
 
