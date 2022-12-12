@@ -1,5 +1,5 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
+# Sok-2030 Næringsøkonomi og konkurransestrategi   
 
 ## Innleveringer 
 
@@ -8,11 +8,11 @@
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
 
 
-| Type oppgave                       | Innleveringsfrist | Ressurser |
-|------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      |  xx.xx            | kommer    |
-|Arbeidskrav 1                       | Uke x/x           | kommer    |
-|Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
+| Type oppgave                       | Dato  |
+|------------------------------------|-------------------|
+|Mappeoppgave I - gruppeoppgave       |  Innleveringsfrist 31. mars         | 
+|Arbeidskrav - muntlig prestasjon     | 29. mars          | 
+|Mappeoppgave II  - individuell oppgave                    | Innleveringsfrist 26. mai | 
 
 
-Oppgavene kan løses i grupper på maksimalt 3.
+Mappeoppgavene I - kan løses i grupper på maksimalt 4.
