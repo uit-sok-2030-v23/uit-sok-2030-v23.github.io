@@ -23,6 +23,8 @@ Kurset består av ulike interessante tema
 
 ## Faglærerinfo  
 - [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"} (fagansvarlig)
+- Epost: anita.michalsen@uit.no
+- 
 
 
 ## Administrative spørsmål
