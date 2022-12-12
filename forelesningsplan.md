@@ -11,7 +11,7 @@
 |10.januar   |Forelesning 1 |Introduksjon            |PRN kap.1 og 3.1
 |            |              |Markedsstruktur og konsentrasjon              |
 |12. januar  |Forelesning 2 |Grunnleggende mikroøkonomi; Frikonkurranse og monopol
-Velferdseffekter av frikonkurranse og monopol
+|            |              |Velferdseffekter av frikonkurranse og monopol
          |R                   |
 |xx.xx  xx:xx    |Tromsø           |Samfunnsøkonomi     |
    
