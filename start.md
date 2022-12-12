@@ -1,5 +1,5 @@
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+
 
 
 ## Kursplan  
@@ -23,7 +23,7 @@ Kurset består av ulike interessante tema
 
 ## Faglærerinfo  
 - [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"} (fagansvarlig)
-- Epost: anita.michalsen@uit.no
+- [Epost: anita.michalsen@uit.no]
 - 
 
 
