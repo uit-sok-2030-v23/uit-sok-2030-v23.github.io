@@ -6,11 +6,13 @@
 
 ## Eksempel på tabell for forelesningsplan
 
-| Tid            | Sted            | Tema               |
-|----------------|-----------------|--------------------|
-|xx.xx  xx:xx    |Tromsø           |git                 |
-|xx.xx  xx:xx    |Tromsø           |python              |
-|xx.xx  xx:xx    |Tromsø           |R                   |
+| Tid        | Sesjon       | Tema                   | Pensum         |
+|------------|--------------|------------------------|----------------|
+|10.januar   |Forelesning 1 |Introduksjon            |PRN kap.1 og 3.1
+|            |              |Markedsstruktur og konsentrasjon              |
+|12. januar  |Forelesning 2 |Grunnleggende mikroøkonomi; Frikonkurranse og monopol
+Velferdseffekter av frikonkurranse og monopol
+         |R                   |
 |xx.xx  xx:xx    |Tromsø           |Samfunnsøkonomi     |
    
 
