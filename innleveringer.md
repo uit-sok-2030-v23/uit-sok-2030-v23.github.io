@@ -15,4 +15,4 @@
 |Mappeoppgave II  - individuell oppgave                    | Innleveringsfrist 26. mai | 
 
 
-Mappeoppgavene I - kan løses i grupper på maksimalt 4.
+Mappeoppgavene I - kan løses i grupper på maksimalt 4 studenter.
