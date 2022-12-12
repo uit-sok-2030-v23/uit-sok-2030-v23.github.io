@@ -33,12 +33,13 @@
 |   |   |og lokaliseringsmodeller|
 |14. mars |Forelesning 10 |Sekvensiell konkurranse og Stackelberg modell |PRN kap.11|   
 |16. mars |Seminar 5|Oligopolmodelle||   
-|            |              |Del 4 Konkurranseskadelig strategierr|    |
+|            |              |Del 4 Konkurranseskadelig strategier|    |
 |18. april|Forelesning 11 |Prissamarbeid og karteller          |PRN kap.14.1 - 14.2|          
 |25. april  |Forelesning 12 |Etableringsbarrierer og strategiske bindinger   |PRN kap.12.1 - 12.2|
-|2. mars |Seminar 4|Cournot modell||    
-|7. mars |Forelesning 9|Priskonkurranse, Bertrand modell |PRN kap.10.1 - 10.4|   
-|   |   |og lokaliseringsmodeller|
-|14. mars |Forelesning 10 |Sekvensiell konkurranse og Stackelberg modell |PRN kap.11|   
-|16. mars |Seminar 5|Oligopolmodelle||   
-
+|27. april |Seminar 6|Konkurranseskadelig strategierl||    
+|   |   | 
+ | |Del 5 Relasjoner mellom bedrifterr|    |
+|2. mai|Forelesning 13 |Horisontale fusjoner          |PRN kap.15.1 - 15.2 og 15.5.1|          
+|9. mai  |Forelesning 14 |Vertikale relasjoner   |PRN kap. kap.16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2|
+|11. mai |Seminar 6|Horisontale og vertikale relasjoner||    
+|16. mai |Forelesning 15|Oppsummering og eksamensoppgaverl ||   
