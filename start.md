@@ -40,11 +40,6 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum  
 Pepall, Richards and Norman (2014), Industrial Organization: Contemporary theory and empirical applications, 5. Utgave, Wiley-Blackwell 
 
-### Pensum til forelesningene
-
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
-
 
 
 ## Kunngjøringer  
