@@ -40,7 +40,6 @@
 |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
 |2. mai|Forelesning 13 |Horisontale fusjoner          |PRN kap.15.1 - 15.2 og 15.5.1|          
-|9. mai  |Forelesning 14 |Vertikale relasjoner   |PRN kap. kap.16.1 – 16.3.1, 
-17.1 -17.3 og 18.1 – 18.2 |
+|9. mai  |Forelesning 14 |Vertikale relasjoner   |PRN kap. kap.16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 |
 |11. mai |Seminar 6|Horisontale og vertikale relasjoner||    
 |16. mai |Forelesning 15|Oppsummering og eksamensoppgaver ||   
