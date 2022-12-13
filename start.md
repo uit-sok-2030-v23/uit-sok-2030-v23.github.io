@@ -4,11 +4,9 @@
 
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
 - [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
 - [Innleveringsplan](innleveringer.html){:target="blank"}   
 
 
@@ -23,7 +21,7 @@ Kurset består av ulike interessante tema
 
 ## Faglærerinfo  
 - [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"} (fagansvarlig)
-- [Epost: anita.michalsen@uit.no]
+- Epost: anita.michalsen@uit.no
 - 
 
 
@@ -33,6 +31,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 ## Pensum  
+Pepall, Richards and Norman (2014), Industrial Organization: Contemporary theory and empirical applications, 5. Utgave, Wiley-Blackwell 
 
 ### Pensum til forelesningene
 
@@ -48,7 +47,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering. Mappen består av to skriftlige oppgaver som besvares gjennom semesteret. Mappeoppgave I kan skrives individuelt eller i grupper på maksimalt 3 studenter. Mappeoppgave II besvares individuelt. Obligatorisk arbeidskravet i kurset er presentasjon av mappeoppgave I.
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
 
