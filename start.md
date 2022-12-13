@@ -7,7 +7,8 @@
 Kursplanen inneholder informasjon om undervisning og innleveringer.  
 
 - [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
+- [Innleveringsplan](innleveringer.html){:target="blank"}  
+- - [Forelesninger](forelesningser.html){:target="blank"} 
 
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
