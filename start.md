@@ -16,12 +16,12 @@ Kursplanen inneholder informasjon om undervisning og innleveringer.
 ## Kursbeskrivelse 
 Konkurransestrategi handler om forståelse av hvordan markeder og bransjer fungerer. Kurset vil gi en oversikt over ulike teorier og modeller for konkurranse og strategisk interaksjon mellom bedrifter, og innsikt i hvordan markedsforhold påvirker konkurransen mellom bedrifter. Med formål om å forstå hvordan bedrifter kan opptre strategisk i markeder for å oppnå konkurransefordeler eller redusert konkurranse.
 
-|I kurset vil blant annet følgende tema belyses:|
-|•	Monopol; produktkvalitet & -valg, prisdiskriminering|
-|•	Basismodeller for pris- og kvantumskonkurranse|
-|•	Produktdifferensiering|
-|•	Markedskonsentrasjon, fusjoner og oppkjøp|
-|•	Vertikale relasjoner|
+I kurset vil blant annet følgende tema belyses:|
+-	Monopol; produktkvalitet & -valg, prisdiskriminering|
+-	Basismodeller for pris- og kvantumskonkurranse|
+-	Produktdifferensiering|
+-	Markedskonsentrasjon, fusjoner og oppkjøp|
+-	Vertikale relasjoner|
 
 
 [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=785825&ar=2023&semester=V){:target="blank"}
