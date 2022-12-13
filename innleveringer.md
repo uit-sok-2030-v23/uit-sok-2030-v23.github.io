@@ -10,11 +10,14 @@
 
 | Type oppgave                       | Dato  |
 |------------------------------------|---------|
-|Veiledning mappeoppgave I:          | 
-|Problemstilling for oppgaven        | 8. - 10.mars| 
-|Struktur av oppgaven                | 20. - 24.mars| 
+|         | 
+|Veiledning mappeoppgave I: Problemstilling for oppgaven        | 8. - 10.mars| 
+|Veiledning mappeoppgave I: Struktur av oppgaven                | 20. - 24.mars| 
+|         | 
 |Arbeidskrav - muntlig prestasjon    | 29. mars          | 
+|         | 
 |Mappeoppgave I - Innleveringsfrist  | 31. mars 
+|         | 
 |Mappeoppgave II  - Innleveringsfrist   |  26. mai | 
 
 
