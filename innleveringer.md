@@ -9,10 +9,13 @@
 
 
 | Type oppgave                       | Dato  |
-|------------------------------------|-------------------|
-|Mappeoppgave I - gruppeoppgave       |  Innleveringsfrist 31. mars         | 
-|Arbeidskrav - muntlig prestasjon     | 29. mars          | 
-|Mappeoppgave II  - individuell oppgave                    | Innleveringsfrist 26. mai | 
+|------------------------------------|---------|
+|Veiledning mappeoppgave I:          | 
+|Problemstilling for oppgaven        | 8. - 10.mars| 
+|Struktur av oppgaven                | 20. - 24.mars| 
+|Arbeidskrav - muntlig prestasjon    | 29. mars          | 
+|Mappeoppgave I - Innleveringsfrist  | 31. mars 
+|Mappeoppgave II  - Innleveringsfrist   |  26. mai | 
 
 
-Mappeoppgavene I - kan løses i grupper på maksimalt 4 studenter.
+Mappeoppgavene I - kan løses i grupper på maksimalt 3 studenter.
