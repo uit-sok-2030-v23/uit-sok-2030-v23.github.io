@@ -24,7 +24,7 @@ I kurset vil blant annet følgende tema belyses:
 -	Vertikale relasjoner
 
 
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=785825&ar=2023&semester=V){:target="blank"}
+For læringsmål se :[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=785825&ar=2023&semester=V){:target="blank"}
 
 
 ## Faglærerinfo  
