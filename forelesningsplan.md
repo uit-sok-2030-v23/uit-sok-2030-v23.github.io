@@ -7,7 +7,7 @@
 | Tid        | Sesjon       | Tema                   | Pensum         |
 |------------|--------------|------------------------|----------------|
 |   |    |   |   |
-|            |  |Del 1 Introduksjon og markedsanalyse|    |
+|            |  |## Del 1 Introduksjon og markedsanalyse|    |
 |10. januar  |Forelesning 1 |Introduksjon            |PRN kap.1 og 3.1
 |            |              |Markedsstruktur og konsentrasjon              
 |12. januar  |Forelesning 2 |Grunnleggende mikroøkonomi|PRN kap. 2.1 - 2.2|
