@@ -9,6 +9,7 @@ Kursplanen inneholder informasjon om undervisning og innleveringer.
 - [Forelesningsplan](forelesningsplan.html){:target="blank"}
 - [Innleveringsplan](innleveringer.html){:target="blank"}  
 - [Forelesninger](forelesninger.html){:target="blank"} 
+- [Seminar](forelesninger.html){:target="blank"} 
 - [Python](https://github.com/uit-sok-2030-v23/Python){:target="blank"} 
 
 
