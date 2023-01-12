@@ -18,7 +18,7 @@
 |         | 
 |Mappeoppgave I - Innleveringsfrist  | 31. mars 
 |         | 
-|Mappeoppgave II  - Innleveringsfrist   |  26. mai | 
+|Mappeoppgave II  - Innleveringsfrist   |  23. mai | 
 
 
 Mappeoppgavene I - kan løses i grupper på maksimalt 3 studenter.
