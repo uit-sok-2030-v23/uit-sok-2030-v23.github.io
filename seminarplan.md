@@ -12,4 +12,4 @@
 | 2.3| Seminar 3  | Cournot modell              | kommer                  |
 | 16.3| Seminar 4 | Oligopolmodeller            | kommer                  |
 |27.4| Seminar 5   |Konkurranseskadelig strategier|   |
-|11.5| SeminR 6   |Horisontale og vertikale relasjoner|   |
+|11.5| Seminar 6   |Horisontale og vertikale relasjoner|   |
