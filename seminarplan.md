@@ -7,7 +7,7 @@
 
 |Tid | Seminarnr. | Tema                        |  Oppgaver og ressurser  |
 |----|------------|-----------------------------|-------------------------|
-| 26.1|  Seminar 1 | Frikonkurranse og monopol   | kommer                  |
+| 26.1|  Seminar 1 | Frikonkurranse og monopol   | [Oppgaver seminar 1](/Seminar 1 - Frikonkurranse og monopol.pdf)     |
 | 16.2| Seminar 2 | Monopol, prisdiskriminering og produktvalg  | kommer                  |
 | 2.3| Seminar 3  | Cournot modell              | kommer                  |
 | 16.3| Seminar 4 | Oligopolmodeller            | kommer                  |
