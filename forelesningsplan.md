@@ -15,6 +15,7 @@
 |  |   |   |
 |            |              |Del 2 Monopol i teori og praksis|    |
 |24. januar  |Forelesning 4 |Monopol og 3. grads prisdiskriminering            |PRN kap.5.1 - 5.5|  
+|            |              |                                |Python Del 2 - 5.3|
 |26. januar  |Seminar 1 |Mappeoppgave 1 - problemformuleirng og struktur ||
 |            |          | Oppgaver frikonkurranse og monopol|
 |31. januar |Forelesning 5|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap.6.1 - 6.3|    
