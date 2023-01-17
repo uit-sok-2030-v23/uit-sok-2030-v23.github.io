@@ -10,7 +10,7 @@
 |            |  |Del 1 Introduksjon og markedsanalyse|    |
 |17. januar  |Forelesning 1 |Introduksjon            |PRN kap.1 og 3.1
 |            |              |Markedsstruktur og konsentrasjon              
-|19. januar  |Forelesning 2 |Grunnleggende mikroøkonomi|PRN kap. 2.1 - 2.2|
+|19. januar  |Forelesning 2 |Grunnleggende mikroøkonomi|PRN kap. 2.1 - 2.2 og 4.1|
 |            |              |Frikonkurranse og monopol||
 |  |   |   |
 |            |              |Del 2 Monopol i teori og praksis|    |
