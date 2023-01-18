@@ -4,7 +4,8 @@
 # Forelesninger
 
 ## Del 1 Introduksjon og markedsanalyse       
-[Forelesning 1](/Forelesning 1 - introduksjon .pdf)
+[Forelesning 1 - Introduksjon](/Forelesning 1 - introduksjon .pdf)
+[Forelesning 2 - grunnleggende mikroøkonomi](/Forelesning 2 - grunnleggende mikroøkonomi.pdf)
 
 
 ## Del 2 Monopol i teori og praksis
