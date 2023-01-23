@@ -7,8 +7,8 @@
 - [Forelesning 1 - Introduksjon](/Forelesning 1 - introduksjon .pdf)
 - [Forelesning 2 - Grunnleggende mikroøkonomi](/Forelesning 2 - grunnleggende mikroøkonomi.pdf)
 
-
 ## Del 2 Monopol i teori og praksis
+- [Forelesning 3 - Monopol og prisdiskriminering](/Forelesning  - monopol og prisdiskriminering.pdf)
 
 
 ## Del 3 Oligopolmodeller
