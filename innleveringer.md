@@ -8,7 +8,7 @@
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
 - [Informasjon om mappeoppgave 1](/Informasjon om mappeoppgave 1. pdf.pdf)
 - Seminar mappeoppgave 1 [Mappeoppgave 1](/Seminar mappoppgave I - problemformulering og struktur.pdf)
-- 
+
 
 
 | Tidsplan                    | Dato  |
@@ -24,4 +24,4 @@
 |Mappeoppgave II  - Innleveringsfrist   |  23. mai | 
 
 
-Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
+- Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
