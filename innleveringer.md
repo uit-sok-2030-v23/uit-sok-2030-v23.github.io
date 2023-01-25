@@ -6,9 +6,10 @@
 - Arbeidskrav er obligatorisk, men inngår ikke i mappen.
 - Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
+- [Informasjon om mappeoppgave 1](/Informasjon om mappeoppgave 1.pdf)
 
 
-| Type oppgave                       | Dato  |
+| Tidsplan                    | Dato  |
 |------------------------------------|---------|
 |         | 
 |Veiledning mappeoppgave I: Problemstilling for oppgaven        | 8. - 10.mars| 
@@ -21,4 +22,4 @@
 |Mappeoppgave II  - Innleveringsfrist   |  23. mai | 
 
 
-Mappeoppgavene I - kan løses i grupper på maksimalt 3 studenter.
+Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
