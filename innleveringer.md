@@ -7,6 +7,8 @@
 - Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
 - [Informasjon om mappeoppgave 1](/Informasjon om mappeoppgave 1. pdf.pdf)
+- [Seminar mappeoppgave 1](/[Mappeoppgave 1](/Seminar mInformasjon om mappeoppgave 1. pdf.pdf))
+- 
 
 
 | Tidsplan                    | Dato  |
