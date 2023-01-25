@@ -6,7 +6,7 @@
 - Arbeidskrav er obligatorisk, men inngår ikke i mappen.
 - Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
-- [Informasjon om mappeoppgave 1](/Informasjon om mappeoppgave 1.pdf)
+- [Informasjon om mappeoppgave 1](/Informasjon om mappeoppgave 1. pdf.pdf)
 
 
 | Tidsplan                    | Dato  |
