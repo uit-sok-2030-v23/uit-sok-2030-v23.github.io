@@ -9,6 +9,7 @@
 
 ## Del 2 Monopol i teori og praksis
 - [Forelesning 3 - Monopol og prisdiskriminering](/Forelesning 3 - Monopol og prisdiskriminering..pdf)
+- [Forelesning 3 - Monopol og prisdiskriminering](/Forelesning 4 - monopol og prisdiskriminering.pdf)
 
 
 ## Del 3 Oligopolmodeller
