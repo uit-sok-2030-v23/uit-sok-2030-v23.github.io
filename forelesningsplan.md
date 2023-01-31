@@ -24,9 +24,9 @@
 |16. februar |Seminar 2|Monopol, prisdiskriminering og produktvalg||   
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
-|21. februar|Forelesning 6 |Introduksjon til spillteori           |PRN kap. 9.1 - 9.3|
-|            |              |Dominante strategier og Nash-likevekt             
-|28. februar  |Forelesning 7 |Kvantumskonkurranse og Cournot modell |PRN kap. 9.4 - 9.5|
+|21. februar|Forelesning 6 |Spillteori, dominante strategier og Nash-likevekt   |PRN kap. 9.1 - 9.5|
+|            |              | Kvantumskonkurranse og Cournot modell|
+|28. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4|
 |2. mars |Seminar 3|Cournot modell||    
 |7. mars |Forelesning 8|Priskonkurranse, Bertrand modell |PRN kap. 10.1 - 10.4|   
 |   |   |og lokaliseringsmodeller|
