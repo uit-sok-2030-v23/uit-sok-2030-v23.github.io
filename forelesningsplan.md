@@ -27,11 +27,10 @@
 |21. februar|Forelesning 6 |Spillteori, dominante strategier og Nash-likevekt   |PRN kap. 9.1 - 9.5 og Python Del 3 - 9.4 - 9.5|
 |            |              | Kvantumskonkurranse og Cournot modell|
 |28. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 - 10.3|
-|2. mars |Seminar 3|Cournot modell||    
-|7. mars |Forelesning 8|Priskonkurranse, Bertrand modell |PRN kap. 10.1 - 10.4|   
-|   |   |og lokaliseringsmodeller|
-|14. mars |Forelesning 9 |Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1 |   
-|16. mars |Seminar 4|Oligopolmodelle|| 
+|2. mars |Seminar 3|Oligopolmodellel||    
+|7. mars |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1|   
+|14. mars |Forelesning 9 | | |   
+|16. mars |Seminar 4|Oligopolmodeller|| 
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |18. april|Forelesning 10 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2|          
