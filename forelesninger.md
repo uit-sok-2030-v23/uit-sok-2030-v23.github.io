@@ -10,10 +10,11 @@
 ## Del 2 Monopol i teori og praksis
 - [Forelesning 3 - Monopol og prisdiskriminering](/Forelesning 3 - Monopol og prisdiskriminering..pdf)
 - [Forelesning 4 - Monopol og prisdiskriminering](/Forelesning 4 - monopol og prisdiskriminering..pdf)
-- [Forelesning 4 - Monopol,produktutvalg og kvalitet](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)
+- [Forelesning 5 - Monopol,produktutvalg og kvalitet](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)
 
 
 ## Del 3 Oligopolmodeller
+- [Forelesning 6 - Monopol,produktutvalg og kvalitet](/Forelesning 6 -Nash likevekt og Cournot modell.pdf)
 
 
 ## Del 4 Konkurranseskadelig strategier
