@@ -19,16 +19,16 @@
 |26. januar  |Seminar 1 |Mappeoppgave 1 - problemformuleirng og struktur ||
 |            |          | Oppgaver frikonkurranse og monopol|
 |31. januar |Forelesning 4|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap. 6.1 - 6.3 og Python Del 2 - 6.1|    
-|7. februar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 og Python Del 2 - 7.3 - 7.5|   
+|7. februar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 og Python Del 2 - 7.3 og 7.5|   
 |14. februar |Gjesteforelesning |Prisstrategi for Hurtigruten med Thomas Larsen ||   
 |16. februar |Seminar 2|Monopol, prisdiskriminering og produktvalg||   
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
-|21. februar|Forelesning 6 |Spillteori, dominante strategier og Nash-likevekt   |PRN kap. 9.1 - 9.5 og Python Del 3 - 9.4 - 9.5|
+|21. februar|Forelesning 6 |Spillteori, dominante strategier og Nash-likevekt   |PRN kap. 9.1 - 9.5 og Python Del 3 - 9.4 og 9.5|
 |            |              | Kvantumskonkurranse og Cournot modell|
-|28. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 - 10.3|
+|28. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 og 10.3|
 |2. mars |Seminar 3|Oligopolmodeller||    
-|7. mars |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1|   
+|7. mars |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1 og 11.2|   
 |14. mars |Forelesning 9 | | |   
 |16. mars |Seminar 4|Oligopolmodeller|| 
 |   |   |
