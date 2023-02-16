@@ -11,12 +11,13 @@
 - [Forelesning 3 - Monopol og prisdiskriminering](/Forelesning 3 - Monopol og prisdiskriminering..pdf)
 - [Forelesning 4 - Monopol og prisdiskriminering](/Forelesning 4 - monopol og prisdiskriminering..pdf)
 - [Forelesning 5 - Monopol,produktutvalg og kvalitet](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)
-- [Gjesteforelesning - Hurtigruten ved Thomas Larsen](/Gjesteforelesning - Hurtigruten ved Thomas Larsen.pdf)
+
 
 
 ## Del 3 Oligopolmodeller
 - [Forelesning 6 - Nash likevekt og Cournot modell](/Forelesning 6 -Nash likevekt og Cournot modell.pdf)
 - [Forelesning 7 - Priskonkurranse, Bertrand modell og lokaliseringsmodeller](/Forelesning 7 - Priskonkurranse og Bertrand modell.pdf)
+- [Gjesteforelesning - Hurtigruten ved Thomas Larsen](/Gjesteforelesning - Hurtigruten ved Thomas Larsen.pdf)
 
 
 ## Del 4 Konkurranseskadelig strategier
