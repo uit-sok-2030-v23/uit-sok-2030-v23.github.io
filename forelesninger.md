@@ -13,7 +13,6 @@
 - [Forelesning 5 - Monopol,produktutvalg og kvalitet](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)
 - [Gjesteforelesning - Hurtigruten ved Thomas Larsen](/Gjesteforelesning - Hurtigruten ved Thomas Larsen.pdf)
 
--
 
 ## Del 3 Oligopolmodeller
 - [Forelesning 6 - Nash likevekt og Cournot modell](/Forelesning 6 -Nash likevekt og Cournot modell.pdf)
