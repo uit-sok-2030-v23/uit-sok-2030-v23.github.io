@@ -11,6 +11,7 @@
 - [Forelesning 3 - Monopol og prisdiskriminering](/Forelesning 3 - Monopol og prisdiskriminering..pdf)
 - [Forelesning 4 - Monopol og prisdiskriminering](/Forelesning 4 - monopol og prisdiskriminering..pdf)
 - [Forelesning 5 - Monopol,produktutvalg og kvalitet](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)
+- 
 - [Gjesteforelesning - Hurtigruten ved Thomas Larsen](/Gjesteforelesning - Hurtigruten ved Thomas Larsen.pdf)
 
 
