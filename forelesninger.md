@@ -19,7 +19,7 @@
 - [Forelesning 6 - Nash likevekt og Cournot modell](/Forelesning 6 - Nash likevekt og Cournot modell.pdf)
 - [Forelesning 7 - Priskonkurranse, Bertrand modell og lokaliseringsmodeller](/Forelesning 7 - Priskonkurranse og Bertrand modell.pdf)
 
-
+- [Forelesning 8 - Sekvensiell konkurranse og Stackelberg model](/Forelesning 8- Sekvensiell konkurranse og Stackelberg modell.pdf)
 ## Del 4 Konkurranseskadelig strategier
 
 
