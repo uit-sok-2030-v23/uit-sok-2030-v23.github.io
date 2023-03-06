@@ -29,7 +29,7 @@
 |28. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 og 10.3|
 |2. mars |Seminar 3|Oligopolmodeller||    
 |7. mars |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1 og 11.2|   
-|14. mars |Forelesning 9 | | |   
+|14. mars |Seminar Mappeoppgave I| | |   
 |16. mars |Seminar 4|Oligopolmodeller|| 
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
