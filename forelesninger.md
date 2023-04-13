@@ -21,7 +21,7 @@
 
 - [Forelesning 8 - Sekvensiell konkurranse og Stackelberg model](/Forelesning 8- Sekvensiell konkurranse og Stackelberg modell.pdf)
 ## Del 4 Konkurranseskadelig strategier
-
+- [Forelesning 9 - Prissamarbeid og kartell](/Forelesning 9 - prissamarbeid og kartell..pdf)
 
 ## Del 5 Relasjoner mellom bedrifter
 
