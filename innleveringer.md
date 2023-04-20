@@ -21,6 +21,9 @@
 |         | 
 |Mappeoppgave I - Innleveringsfrist  | 31. mars 
 |         | 
+|Mappeoppgave II - Utlevering av mappeoppgave II  | 22. mai 
+|         | 
+
 |Mappeoppgave II  - Innleveringsfrist   |  23. mai | 
 
 
