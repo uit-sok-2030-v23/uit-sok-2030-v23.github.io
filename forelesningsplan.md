@@ -35,10 +35,10 @@
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |18. april|Forelesning 9 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2|          
 |25. april  |Forelesning 10 |Etableringsbarrierer og strategiske bindinger   |PRN kap. 12.1 - 12.2 og Python Del 4 - 12.2|
-|27. april |Seminar 5|Konkurranseskadelig strategier||    
+|5. mai |Seminar 5|Konkurranseskadelig strategier||    
 |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
-|2. mai|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|          
+|3. mai|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|          
 |9. mai  |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python Del 5 - 16.1|
 |11. mai |Seminar 6|Horisontale og vertikale relasjoner||    
 |16. mai |Forelesning 13|Oppsummering og eksamensoppgaver ||   
