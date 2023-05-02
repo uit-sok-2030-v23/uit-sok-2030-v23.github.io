@@ -25,5 +25,6 @@
 - [Forelesning 10 - Etableringsbarrierer og strategiske bindinger](/Forelesning 10 - etableringsbarrierer og strategiske bindinger.pdf)
 
 ## Del 5 Relasjoner mellom bedrifter
+- [Forelesning 11 - Horisontale fusjoner](/Forelesning 11 - Horisontale fusjoner.pdf)
 
 
