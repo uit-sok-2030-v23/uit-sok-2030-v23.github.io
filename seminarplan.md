@@ -14,5 +14,5 @@
 | 2.3| Seminar 3  | Cournot modell              | [Oppgaver seminar 3](/Seminar 3 - Cournot modell..pdf)             |
 | 16.3| Seminar 4 | Oligopolmodeller            | [Oppgaver seminar 4](Seminar 4 - Oppgaver oligopolmodeller.pdf)    |
 |27.4| Seminar 5   |Konkurranseskadelig strategier| [Oppgaver seminar 5](Seminar 5 - Oppgaver prissamarbeid strategiske bindinger.pdf)  |
-|11.5| Seminar 6   |Horisontale og vertikale relasjoner|  kommer |
+|11.5| Seminar 6   |Horisontale og vertikale relasjoner| [Oppgaver seminar 5]( |
  
