@@ -27,6 +27,6 @@
 ## Del 5 Relasjoner mellom bedrifter
 - [Forelesning 11 - Horisontale fusjoner](/Forelesning 11 - Horisontale fusjoner.pdf)
 - [Forelesning 12 - Vertikale relasjoner](/Forelesning 12 - Vertikale relasjoner.pdf)
-.pdf)
+
 
 
