@@ -28,7 +28,6 @@
 - [Forelesning 11 - Horisontale fusjoner](/Forelesning 11 - Horisontale fusjoner.pdf)
 - [Forelesning 12 - Vertikale relasjoner](/Forelesning 12 - Vertikale relasjoner.pdf)
 
-- [Forelesning 13 - Oppsummering](/Forelesning - oppsummering.pdf)
 
 
 
