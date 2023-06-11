@@ -27,6 +27,6 @@
 
 
 - Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
-- [Sensorveiledning mappeoppgave II](/Forelesning 11 - Horisontale fusjoner.pdf)
+- [Sensorveiledning mappeoppgave II](/Sensorveiledning mappeoppgave II i SOK-2030.pdf)
 - Løsningsforslag mappeoppgave II a)
 - Løsningsforslag mappeoppgave II b)
