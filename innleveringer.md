@@ -8,6 +8,9 @@
 - Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
 - [Informasjon om mappeoppgave 1](/Informasjon om mappeoppgave 1. pdf.pdf)
 - Seminar mappeoppgave 1 [Mappeoppgave 1](/Seminar mappoppgave I - problemformulering og struktur.pdf)
+- [Sensorveiledning mappeoppgave II](/Sensorveiledning mappeoppgave II i SOK-2030.pdf)
+- [Løsningsforslag mappeoppgave II a)](/Mappeoppgave II a.pdf)
+- [Løsningsforslag mappeoppgave II b)](/Mappeoppgave II b.pdf)
 
 
 
@@ -27,6 +30,3 @@
 
 
 - Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
-- [Sensorveiledning mappeoppgave II](/Sensorveiledning mappeoppgave II i SOK-2030.pdf)
-- [Løsningsforslag mappeoppgave II a)](/Mappeoppgave II a.pdf)
-- [Løsningsforslag mappeoppgave II b)](/Mappeoppgave II b.pdf)
