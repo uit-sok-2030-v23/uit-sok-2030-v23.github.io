@@ -27,3 +27,6 @@
 
 
 - Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
+- Sensorveiledning mappeoppgave II
+- Løsningsforslag mappeoppgave II a)
+- Løsningsforslag mappeoppgave II b)
