@@ -28,5 +28,5 @@
 
 - Mappeoppgavene I - kan løses i grupper på opptil 3 studenter.
 - [Sensorveiledning mappeoppgave II](/Sensorveiledning mappeoppgave II i SOK-2030.pdf)
-- [Løsningsforslag mappeoppgave II a)](/Mappeoppgave II a) - SOK 2030.pdf)
+- [Løsningsforslag mappeoppgave II a)](/Mappeoppgave II a)-SOK 2030.pdf)
 - [Løsningsforslag mappeoppgave II b)](/Mappeoppgave II b) - SOK 2030.pdf)
